@@ -33,6 +33,11 @@ public class Test {
 
         try {
             trans.begin();
+            // Xóa video cũ nếu đã tồn tại để bài test luôn chạy thành công
+            Video oldVideo = enma.find(Video.class, "v101");
+            if (oldVideo != null) {
+                enma.remove(oldVideo);
+            }
             enma.persist(cate);
             enma.persist(video);
             trans.commit();

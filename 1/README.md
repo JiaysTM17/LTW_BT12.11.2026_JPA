@@ -1,8 +1,11 @@
-# BÀI TẬP 01: CHUYỂN ĐỔI TẦNG DATA SANG CÔNG NGHỆ JPA (HIBERNATE)
-**Môn học:** Lập Trình Web (WEBPR330479) - Trường ĐH Sư Phạm Kỹ Thuật TP.HCM (HCMUTE)  
-**Giảng viên:** ThS. Nguyễn Hữu Trung  
-**Sinh viên thực hiện:** Trương Gia Kiệt - **MSSV:** 24110032  
+# TRƯỜNG ĐẠI HỌC CÔNG NGHỆ KỸ THUẬT THÀNH PHỐ HỒ CHÍ MINH
+## KHOA CÔNG NGHỆ THÔNG TIN
+### MÔN HỌC: LẬP TRÌNH WEB (WEBPR330479)
+#### BÀI TẬP 01: CHUYỂN ĐỔI TẦNG DATA SANG CÔNG NGHỆ JPA (HIBERNATE)
+**Giảng viên hướng dẫn:** ThS. Nguyễn Hữu Trung  
+**Sinh viên thực hiện:** Trương Gia Kiệt - **MSSV:** 24110032 - **Lớp:** 24110CTNB  
 **Thời gian hoàn thành:** 12/11/2026  
+**File báo cáo Word:** [📘 `Bao_Cao_Bai_1_JPA.docx`](./Bao_Cao_Bai_1_JPA.docx)
 
 ---
 

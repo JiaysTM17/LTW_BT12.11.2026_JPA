@@ -1,14 +1,23 @@
-# TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HỒ CHÍ MINH (HCMUTE)
-## KHOA CÔNG NGHỆ THÔNG TIN - BỘ MÔN CÔNG NGHỆ PHẦN MỀM
-### BÀI TẬP LẬP TRÌNH WEB (WEBPR330479) - BUỔI HỌC NGÀY 12/11/2026
+# TRƯỜNG ĐẠI HỌC CÔNG NGHỆ KỸ THUẬT THÀNH PHỐ HỒ CHÍ MINH
+## KHOA CÔNG NGHỆ THÔNG TIN
+### MÔN HỌC: LẬP TRÌNH WEB (WEBPR330479)
+#### BÀI TẬP THỰC HÀNH - BUỔI HỌC NGÀY 12/11/2026
 ---
 
-### 👨‍🎓 THÔNG TIN SINH VIÊN
+### THÔNG TIN SINH VIÊN
 - **Họ và tên:** Trương Gia Kiệt
 - **Mã số sinh viên (MSSV):** 24110032
-- **Lớp học phần:** Lập Trình Web
+- **Lớp:** 24110CTNB
+- **Môn học:** Lập Trình Web
 - **Giảng viên hướng dẫn:** ThS. Nguyễn Hữu Trung
 - **Hệ thống nộp bài:** UTE-LMS (https://utexlms.hcmute.edu.vn)
+
+---
+
+## 📄 TÀI LIỆU BÁO CÁO (WORD)
+- [Báo cáo tổng hợp (Bài 1 & Bài 2)](./BAO_CAO_BAI_TAP_12.11.2026.docx)
+- [Báo cáo Bài tập 01](./1/Bao_Cao_Bai_1_JPA.docx)
+- [Báo cáo Bài tập 02](./2/Bao_Cao_Bai_2_CRUD_JPA.docx)
 
 ---
 
@@ -115,4 +124,4 @@ File WAR: `target/24110032_TruongGiaKiet_BT12.11.2026_Bai2.war`.
 - `2/src/main/webapp/views/admin/`: `category-list.jsp`, `category-add.jsp`, `category-edit.jsp` thiết kế Bootstrap 5.
 
 ---
-*Bản quyền bài tập thuộc về sinh viên **Trương Gia Kiệt - 24110032** (HCMUTE).*
+Sinh viên: **Trương Gia Kiệt - 24110032**
