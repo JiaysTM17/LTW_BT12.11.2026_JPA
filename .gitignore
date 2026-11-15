@@ -1,0 +1,28 @@
+# Maven build directories
+target/
+**/target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# IDE Files
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.factorypath
+.apt_generated/
+
+# OS specific files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary & Upload test files
+upload/
+**/upload/
+*.log
